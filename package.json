@@ -1,5 +1,5 @@
 {
-  "name": "@trendmicro/react-dropdown",
+  "name": "@wuzzuf/react-dropdown",
   "version": "1.4.0",
   "description": "React Dropdown component",
   "main": "lib/index.js",
