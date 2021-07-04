@@ -20,10 +20,6 @@
     "coveralls": "tap test/*.js --coverage --coverage-report=text-lcov --nyc-arg=--require --nyc-arg=babel-register --nyc-arg=--require --nyc-arg=babel-polyfill | coveralls",
     "dev": "cd examples; webpack-dev-server --hot --inline --host 0.0.0.0 --port 8000 --content-base ../docs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/trendmicro-frontend/react-dropdown.git"
-  },
   "author": "Cheton Wu <cheton_wu@trend.com.tw>",
   "contributors": [
     {
@@ -33,10 +29,6 @@
     }
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/trendmicro-frontend/react-dropdown/issues"
-  },
-  "homepage": "https://github.com/trendmicro-frontend/react-dropdown",
   "keywords": [
     "dropdown",
     "react",
